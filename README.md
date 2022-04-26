@@ -1,1 +1,3 @@
-# agrupamento
+# AGRUPAMENTO
+algoritmo de treinamento:
+  - KMeans
